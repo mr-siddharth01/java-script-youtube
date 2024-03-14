@@ -15,8 +15,16 @@ let scoreInNumber = Number(score);
 let isLogged = 1;
 
 let isLoggedIn = Boolean(isLogged);
-console.log(isLoggedIn);
+// console.log(isLoggedIn);
+
 /*
  0 => false, 1 => true
  "" => false, "siddharth" => true
 */
+
+// *********************************  Operation  *******************************
+
+let value = 3;
+
+let newValue = -value;
+console.log(newValue);
