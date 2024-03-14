@@ -19,3 +19,4 @@ console.log(isLoggedIn);
 /*
  0 => false, 1 => true
  "" => false, "siddharth" => true
+*/
